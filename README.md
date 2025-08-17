@@ -1,4 +1,4 @@
-# Tampermonkey Userscripts by lundylizard
+# userscripts
 
 A collection of custom [Tampermonkey](https://www.tampermonkey.net/) userscripts I've written.
 
