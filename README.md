@@ -8,6 +8,9 @@ A collection of custom [Tampermonkey](https://www.tampermonkey.net/) userscripts
 Adjust YouTube's volume in **1% steps** (instead of 5%) using the arrow keys.  
 Displays a small and clean overlay showing the current volume.
 
+### [Open Spotify Links in Desktop App](https://github.com/lundylizard/userscripts/raw/refs/heads/main/spotify-open.user.js)
+Opens Spotify Links (open.spotify.com) in the Desktop App and automatically closes the tab
+
 ---
 
 ## 📄 License
